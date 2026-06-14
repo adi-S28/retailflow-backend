@@ -1,9 +1,9 @@
-package org.mavensample.returns.model.service;
+package org.mavensample.returns.service;
 
 import org.mavensample.returns.model.Refund;
 import org.mavensample.returns.repository.RefundRepository;
 import org.springframework.stereotype.Service;
-
+import org.mavensample.returns.model.service.RefundService;
 import java.util.List;
 
 @Service
