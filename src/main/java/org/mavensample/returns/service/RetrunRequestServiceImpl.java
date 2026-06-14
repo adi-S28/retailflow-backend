@@ -1,8 +1,10 @@
-package org.mavensample.returns.model.service;
+package org.mavensample.returns.service;
 
 import org.mavensample.returns.model.ReturnRequest;
 import org.mavensample.returns.repository.ReturnRequestRepository;
 import org.springframework.stereotype.Service;
+import org.mavensample.returns.model.service.ReturnRequestService;
+
 
 import java.util.List;
 
